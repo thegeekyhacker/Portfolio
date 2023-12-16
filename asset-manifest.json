@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.de770f5e.css",
+    "main.js": "/Portfolio/static/js/main.eb7ee45e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/health.png": "/Portfolio/static/media/health.6919a85baa1a0f5f8c15.png",
+    "static/media/hangman.png": "/Portfolio/static/media/hangman.b5357956e3b29fbd3c21.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/AI.png": "/Portfolio/static/media/AI.e26047ba29b097af1b93.png",
+    "static/media/pdfreader.png": "/Portfolio/static/media/pdfreader.0f3ff37fd875df8818eb.png",
+    "static/media/Resume Canva.pdf": "/Portfolio/static/media/Resume Canva.a485761043f64cbb824d.pdf",
+    "static/media/pathpilot.png": "/Portfolio/static/media/pathpilot.1e2b0ee69a65b22cfb6d.png",
+    "static/media/calculator.png": "/Portfolio/static/media/calculator.7db7dfd322ae889f2f98.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.4eccf2d9db644112fc91.png",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.de770f5e.css.map": "/Portfolio/static/css/main.de770f5e.css.map",
+    "main.eb7ee45e.js.map": "/Portfolio/static/js/main.eb7ee45e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de770f5e.css",
+    "static/js/main.eb7ee45e.js"
+  ]
+}
